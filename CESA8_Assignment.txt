@@ -1,0 +1,677 @@
+         B   2       MET  CA    55.73028295   0.02115549625    C  13  1  false  CCH
+         B   2       MET  CB    32.84962475   0.03898191778    C  13  1  false  CCH
+         B   2       MET  CG    32.14668248   0.005817638514   C  13  1  false  .
+         B   2       MET  H     8.261009587   0.002168472298   H  1   1  false  .
+         B   2       MET  HA    4.390305703   0.000470025808   H  1   1  false  CCH
+         B   2       MET  HBx   2.020605404   0.002953299792   H  1   1  false  CCH
+         B   2       MET  HBy   1.94210281    0.005070079935   H  1   1  false  CCH
+         B   2       MET  HGx   2.53032455    0.0004285618041  H  1   1  false  CCH
+         B   2       MET  HGy   2.456651497   0.00153138109    H  1   1  false  CCH
+         B   2       MET  N     119.8490139   0.05067577668    N  15  1  false  .
+         B   2-1     .    CA    45.51905522   0.01670701777    C  13  1  false  .
+         B   3       GLU  CA    56.68718324   0.1811004406     C  13  1  false  CCH
+         B   3       GLU  CB    30.48243487   0.04004372216    C  13  1  false  'CCH - overlap with E23'
+         B   3       GLU  CG    36.47457861   0.02792894686    C  13  1  false  CCH
+         B   3       GLU  H     8.486983795   0.001934546297   H  1   1  false  .
+         B   3       GLU  HA    4.217641237   0.0007459197926  H  1   1  false  CCH
+         B   3       GLU  HBx   1.98526767    0.001127978196   H  1   1  false  'CCH - close overlap with E23'
+         B   3       GLU  HBy   1.873602108   0.001743296017   H  1   1  false  'CCH - close overlap with E23'
+         B   3       GLU  HG%   2.184100369   0.001533618162   H  1   1  false  'CCH - both protons have same ppm'
+         B   3       GLU  N     121.9187834   0.1177830545     N  15  1  false  .
+         B   3-1     .    CA    55.72832191   0.01421583972    C  13  1  false  .
+         B   3-1     .    CB    32.85553271   0.01707446201    C  13  1  false  .
+         B   4       SER  CA    58.23954285   0.02279020041    C  13  1  false  'CCH-There are two proton shifts observed.'
+         B   4       SER  CB    63.96455671   0.01724353607    C  13  1  false  CCH
+         B   4       SER  H     8.36621286    0.001269830826   H  1   1  false  .
+         B   4       SER  HA    4.39871607    .                H  1   1  false  'CCH-There are two proton shifts observed.'
+         B   4       SER  HB%   3.801142869   0.0002085704583  H  1   1  false  CCH
+         B   4       SER  N     116.8688645   0.03542003682    N  15  1  false  .
+         B   4-1     .    CA    56.77344703   0.02001853225    C  13  1  false  .
+         B   4-1     .    CB    30.49170103   0.02249290962    C  13  1  false  .
+         B   5       ARG  CA    55.77266313   0.01457561896    C  13  1  false  CCH
+         B   5       ARG  CB    31.17974333   0.02196221929    C  13  1  false  CCH
+         B   5       ARG  CD    43.40037779   0.006911667958   C  13  1  false  CCH
+         B   5       ARG  CG    27.04096756   0.0169012876     C  13  1  false  CCH
+         B   5       ARG  H     8.406594677   0.001227117914   H  1   1  false  .
+         B   5       ARG  HA    4.352908335   0.0006348361666  H  1   1  false  CCH
+         B   5       ARG  HBx   1.677180173   0.001396682097   H  1   1  false  CCH
+         B   5       ARG  HBy   1.810186083   0.0008650824196  H  1   1  false  CCH
+         B   5       ARG  HD%   3.113697718   0.0005194982148  H  1   1  false  'CCH - both Hs may be overlapped'
+         B   5       ARG  HG%   1.554511366   0.0003900110977  H  1   1  false  'CCH - both Hs may be overlapped'
+         B   5       ARG  N     123.0338173   0.03773139837    N  15  1  false  .
+         B   5-1     .    CA    58.25458154   0.01893526529    C  13  1  false  .
+         B   5-1     .    CB    63.9321904    0.0087558703     C  13  1  false  .
+         B   6       SER  CA    56.69974247   0.05863499079    C  13  1  false  'CCH In C-H correlation, appears to overlap with a stronger peak.'
+         B   6       SER  CB    63.10963794   0.01565860039    C  13  1  false  CCH
+         B   6       SER  H     8.32741908    0.00104746794    H  1   1  false  .
+         B   6       SER  HA    4.200132247   0.0003898427791  H  1   1  false  CCH
+         B   6       SER  HBx   3.706075479   0.0009264476361  H  1   1  false  'CCH - slightly lower ppm than expected'
+         B   6       SER  HBy   3.541896031   0.001745305425   H  1   1  false  'CCH - slightly lower ppm than expected'
+         B   6       SER  N     118.5678211   0.02467290722    N  15  1  false  .
+         B   6-1     .    CA    55.75969156   0.0134125783     C  13  1  false  .
+         B   6-1     .    CB    31.17227637   0.006078504571   C  13  1  false  .
+         B   7       PRO  CA    62.83809747   0.02672324756    C  13  1  false  Pro
+         B   7       PRO  CB    32.032164     0.04436280241    C  13  1  false  .
+         B   7       PRO  CD    50.04544212   0.03011120553    C  13  1  false  .
+         B   7       PRO  CG    27.25036563   0.006670741745   C  13  1  false  .
+         B   7       PRO  HA    4.223983791   0.0009453090486  H  1   1  false  .
+         B   7       PRO  HBx   2.025007018   0.000170278964   H  1   1  false  .
+         B   7       PRO  HBy   1.536527124   0.004176872154   H  1   1  false  .
+         B   7       PRO  HDx   2.861502126   0.009736691026   H  1   1  false  .
+         B   7       PRO  HDy   2.680446482   0.003040967206   H  1   1  false  .
+         B   7       PRO  HG%   1.513605506   8.257459619e-05  H  1   1  false  .
+         B   8       ILE  CA    58.47011036   0.02126433657    C  13  1  false  CCH
+         B   8       ILE  CB    39.55243186   0.02412221846    C  13  1  false  CCH
+         B   8       ILE  CD1   11.79198431   0.01726878545    C  13  1  false  CCH
+         B   8       ILE  CG1   26.74650297   0.01266804042    C  13  1  false  CCH
+         B   8       ILE  CG2   17.36519071   0.01216726983    C  13  1  false  CCH
+         B   8       ILE  H     7.976721802   0.0009095472244  H  1   1  false  .
+         B   8       ILE  HA    4.139653466   0.001685215433   H  1   1  false  CCH
+         B   8       ILE  HB    1.492474748   0.0003701296276  H  1   1  false  CCH
+         B   8       ILE  HD1%  0.6056679618  0.001261565743   H  1   1  false  CCH
+         B   8       ILE  HG1x  1.253716076   0.002028573718   H  1   1  false  CCH
+         B   8       ILE  HG1y  1.069288735   0.002768390526   H  1   1  false  CCH
+         B   8       ILE  HG2%  0.5577180044  0.001754579959   H  1   1  false  CCH
+         B   8       ILE  N     120.8639142   0.02749611402    N  15  1  false  .
+         B   8-1     .    CA    62.85737821   0.007641582529   C  13  1  false  .
+         B   8-1     .    CB    32.02030851   0.009180340462   C  13  1  false  .
+         B   9       CYS  CA    60.5205519    0.01322313078    C  13  1  false  'CCH - based on presence of CB'
+         B   9       CYS  CB    31.33366135   0.009955543606   C  13  1  false  'CCH - extremely weak'
+         B   9       CYS  H     8.885689706   0.001088176219   H  1   1  false  .
+         B   9       CYS  HA    3.7134431     0.0002505850687  H  1   1  false  'Based on presence of CB'
+         B   9       CYS  HBx   3.343472697   .                H  1   1  false  'Based on Ca position, and presence in 13C-HSQC'
+         B   9       CYS  HBy   2.568756599   .                H  1   1  false  'Based on Ca position, and presence in 13C-HSQC'
+         B   9       CYS  N     127.0983007   0.02485248213    N  15  1  false  .
+         B   9-1     .    CA    58.47484667   0.009755277111   C  13  1  false  .
+         B   9-1     .    CB    39.57030311   0.003724771273   C  13  1  false  .
+         B   10      ASN  CA    56.599424     0.02673827464    C  13  1  false  CCH
+         B   10      ASN  CB    40.55981339   0.01797561798    C  13  1  false  CCH
+         B   10      ASN  H     8.799340165   0.0009840050131  H  1   1  false  .
+         B   10      ASN  HA    4.274485906   0.001117244859   H  1   1  false  CCH
+         B   10      ASN  HBx   2.571272165   0.001171974036   H  1   1  false  CCH
+         B   10      ASN  HBy   2.381023303   0.001194970218   H  1   1  false  CCH
+         B   10      ASN  N     129.5684132   0.03438211194    N  15  1  false  .
+         B   10-1    .    CA    60.51362068   0.01356123191    C  13  1  false  .
+         B   10-1    .    CB    31.32757693   0.005331233071   C  13  1  false  .
+         B   11      THR  CA    65.80423269   0.02497699766    C  13  1  false  CCH
+         B   11      THR  CB    69.05126999   0.01228750462    C  13  1  false  CCH
+         B   11      THR  CG2   22.86692334   0.01745463786    C  13  1  false  CCH
+         B   11      THR  H     9.284922973   0.001497139705   H  1   1  false  .
+         B   11      THR  HA    4.225658376   0.0007452957227  H  1   1  false  CCH
+         B   11      THR  HB    4.628750287   0.0003313994075  H  1   1  false  'CCH - higher ppm than expected.'
+         B   11      THR  HG2%  1.192558157   0.001841571045   H  1   1  false  CCH
+         B   11      THR  N     117.570648    0.02488433148    N  15  1  false  .
+         B   11-1    .    CA    56.56557122   0.005524060043   C  13  1  false  .
+         B   11-1    .    CB    40.5375974    0.006422294767   C  13  1  false  .
+         B   12      CYS  CA    59.22387993   0.04213947268    C  13  1  false  'CCH - based on CB presence'
+         B   12      CYS  CB    33.02830603   0.0175633394     C  13  1  false  'CCH - based on CA presence and 13C-HSQC'
+         B   12      CYS  H     8.492136121   0.002345739025   H  1   1  false  .
+         B   12      CYS  HA    4.821071728   .                H  1   1  false  'CCH - based on CB presence'
+         B   12      CYS  HBx   3.098354683   .                H  1   1  false  'CCH - based on CA presence'
+         B   12      CYS  HBy   2.424089116   .                H  1   1  false  'CCH - based on CA presence'
+         B   12      CYS  N     120.4107885   0.03006681724    N  15  1  false  .
+         B   12-1    .    CA    65.76332532   0.02016978       C  13  1  false  .
+         B   12-1    .    CB    69.00308893   0.01281559948    C  13  1  false  .
+         B   13      GLY  CA    46.49226754   0.01686918871    C  13  1  false  CCH
+         B   13      GLY  H     7.739336715   0.003018809623   H  1   1  false  .
+         B   13      GLY  HAx   4.032082827   0.001525989825   H  1   1  false  CCH
+         B   13      GLY  HAy   3.685385841   0.0002420135166  H  1   1  false  CCH
+         B   13      GLY  N     112.0821972   0.0329394994     N  15  1  false  .
+         B   13-1    .    CA    59.23212457   0.01306354404    C  13  1  false  .
+         B   13-1    .    CB    32.98959736   0.01047131768    C  13  1  false  .
+         B   14      GLU  CA    55.62448254   0.08621139901    C  13  1  false  'CCH - overlap with R54, the CG confirms a Glu is here as well'
+         B   14      GLU  CB    30.6736242    0.03429186338    C  13  1  false  CCH
+         B   14      GLU  CG    36.81993797   0.04798771756    C  13  1  false  CCH
+         B   14      GLU  H     8.600644014   0.002865172442   H  1   1  false  .
+         B   14      GLU  HA    4.365577367   0.001832773981   H  1   1  false  'CCH - only confirmed but to CG that confirms a Glu is here.'
+         B   14      GLU  HB%   2.004184459   0.0009780723387  H  1   1  false  'CCH - both protons appear to have same ppm'
+         B   14      GLU  HGx   2.343294957   0.001411895436   H  1   1  false  CCH
+         B   14      GLU  HGy   2.196227001   0.0003022697738  H  1   1  false  CCH
+         B   14      GLU  N     121.4115029   0.02821703542    N  15  1  false  .
+         B   14-1    .    CA    46.47274673   0.01226063253    C  13  1  false  .
+         B   15      GLU  CA    57.59302362   0.02749825278    C  13  1  false  CCH
+         B   15      GLU  CB    30.069239     0.03268692902    C  13  1  false  CCH
+         B   15      GLU  CG    37.28371285   0.009050853787   C  13  1  false  CCH
+         B   15      GLU  H     8.702875219   0.001261369057   H  1   1  false  .
+         B   15      GLU  HA    4.137579343   0.0009790704581  H  1   1  false  CCH
+         B   15      GLU  HBx   1.867781874   0.000221408729   H  1   1  false  'CCH - very crowded'
+         B   15      GLU  HBy   1.831411142   0.0008344074769  H  1   1  false  'CCH - very crowded'
+         B   15      GLU  HGx   2.24975137    0.0006234825851  H  1   1  false  CCH
+         B   15      GLU  HGy   2.09290176    0.001631542123   H  1   1  false  CCH
+         B   15      GLU  N     120.0249364   0.02261599052    N  15  1  false  .
+         B   15-1    .    CA    55.60981872   0.01376429891    C  13  1  false  .
+         B   15-1    .    CB    30.7038233    0.02278783914    C  13  1  false  .
+         B   16      ILE  CA    63.16791399   0.01851434518    C  13  1  false  CCH
+         B   16      ILE  CB    38.24281051   0.02283165773    C  13  1  false  CCH
+         B   16      ILE  CD1   13.64439748   0.015758038      C  13  1  false  CCH
+         B   16      ILE  CG1   29.43762808   0.02307309576    C  13  1  false  CCH
+         B   16      ILE  CG2   19.14356372   0.01099179897    C  13  1  false  CCH
+         B   16      ILE  H     8.29398458    0.001740610735   H  1   1  false  .
+         B   16      ILE  HA    3.616837354   0.0002662263228  H  1   1  false  CCH
+         B   16      ILE  HB    1.57579638    0.0006435671511  H  1   1  false  CCH
+         B   16      ILE  HD1%  0.5736651492  0.002180757115   H  1   1  false  CCH
+         B   16      ILE  HG1x  1.548803136   0.0007406654254  H  1   1  false  CCH
+         B   16      ILE  HG1y  0.7557557561  0.0009544215889  H  1   1  false  CCH
+         B   16      ILE  HG2%  1.345306173   0.001620743732   H  1   1  false  CCH
+         B   16      ILE  N     125.7227912   0.02558969658    N  15  1  false  .
+         B   16-1    .    CA    57.60051799   0.008781556638   C  13  1  false  .
+         B   16-1    .    CB    30.0610637    0.004870521279   C  13  1  false  .
+         B   17      GLY  CA    44.90870453   0.01247476838    C  13  1  false  CCH
+         B   17      GLY  CB    44.89944515   .                C  13  1  false  .
+         B   17      GLY  H     8.243812714   0.002169954327   H  1   1  false  .
+         B   17      GLY  HAx   4.209007106   0.002963516587   H  1   1  false  CCH
+         B   17      GLY  HAy   3.883268212   0.0009026233017  H  1   1  false  CCH
+         B   17      GLY  N     112.4304112   0.02680302333    N  15  1  false  .
+         B   17-1    .    CA    63.16807143   0.00396589624    C  13  1  false  .
+         B   17-1    .    CB    38.26638678   0.01106337272    C  13  1  false  .
+         B   18      VAL  CA    60.45076823   0.01850879359    C  13  1  false  CCH
+         B   18      VAL  CB    34.36423379   0.01941099705    C  13  1  false  CCH
+         B   18      VAL  CG1   21.55525589   0.01554856349    C  13  1  false  CCH
+         B   18      VAL  CG2   19.59101461   0.009870280528   C  13  1  false  CCH
+         B   18      VAL  H     8.054966267   0.001727184348   H  1   1  false  .
+         B   18      VAL  HA    4.564135459   0.001837735743   H  1   1  false  CCH
+         B   18      VAL  HB    1.754363333   0.001645672926   H  1   1  false  CCH
+         B   18      VAL  HG1%  0.5729154979  0.002148605208   H  1   1  false  CCH
+         B   18      VAL  HG2%  0.7068451237  0.0007565773701  H  1   1  false  CCH
+         B   18      VAL  N     112.972991    0.02077503231    N  15  1  false  .
+         B   18-1    .    CA    44.88704234   0.008841328372   C  13  1  false  .
+         B   19      LYS  CA    56.12275826   0.0491806931     C  13  1  false  'CCH - very weak on HSQC'
+         B   19      LYS  CB    33.56543363   0.03642922528    C  13  1  false  'CCH - very weak on both HSQC and TOCSY'
+         B   19      LYS  CD    29.86147721   0.05698585016    C  13  1  false  CCH
+         B   19      LYS  CE    41.73776186   0.02425226803    C  13  1  false  CCH
+         B   19      LYS  CG    25.4706263    0.05245745028    C  13  1  false  'CCH - very weak but confident'
+         B   19      LYS  H     8.903192387   0.001052358441   H  1   1  false  .
+         B   19      LYS  HA    4.473553164   0.0005066639214  H  1   1  false  CCH
+         B   19      LYS  HB%   2.054922507   0.0009999355402  H  1   1  false  'CCH - very weak, only observed one proton shift'
+         B   19      LYS  HD%   1.796357587   0.004543423874   H  1   1  false  'CCH - likely both protons overlap'
+         B   19      LYS  HEx   3.051707763   0.0003659072392  H  1   1  false  CCH
+         B   19      LYS  HEy   2.922811419   0.00102059168    H  1   1  false  CCH
+         B   19      LYS  HGx   1.619663985   0.0007520475323  H  1   1  false  'CCH - very weak but confident'
+         B   19      LYS  HGy   1.523725057   0.00279361158    H  1   1  false  'CCH - very weak but confident'
+         B   19      LYS  N     123.1285071   0.02665854196    N  15  1  false  .
+         B   19-1    .    CA    60.42780842   0.006913739489   C  13  1  false  .
+         B   19-1    .    CB    34.36044065   0.03675963154    C  13  1  false  .
+         B   20      SER  CA    61.65201022   0.04009004446    C  13  1  false  .
+         B   20      SER  CB    62.82071453   0.03115514425    C  13  1  false  .
+         B   20      SER  HA    4.071352315   0.0001667596932  H  1   1  false  .
+         B   20      SER  HB%   3.888074156   3.210010344e-05  H  1   1  false  .
+         B   21      ASN  CA    52.52367929   0.01769739744    C  13  1  false  CCH
+         B   21      ASN  CB    37.57321814   0.02043204998    C  13  1  false  .
+         B   21      ASN  H     7.747994336   0.00290178915    H  1   1  false  .
+         B   21      ASN  HA    4.522698035   0.0004597958897  H  1   1  false  CCH
+         B   21      ASN  HBx   3.161230662   0.001545214479   H  1   1  false  CCH
+         B   21      ASN  HBy   2.728602958   0.003431343138   H  1   1  false  CCH
+         B   21      ASN  N     117.06285     0.03557520811    N  15  1  false  .
+         B   21-1    .    CA    61.67760183   0.04229922106    C  13  1  false  .
+         B   21-1    .    CB    62.68324548   0.08516227492    C  13  1  false  .
+         B   22      GLY  CA    45.25600568   0.03593913424    C  13  1  false  CCH
+         B   22      GLY  H     8.18061289    0.002813759321   H  1   1  false  .
+         B   22      GLY  HAx   4.123754126   0.004109189223   H  1   1  false  CCH
+         B   22      GLY  HAy   3.344701174   0.001953368357   H  1   1  false  CCH
+         B   22      GLY  N     107.8907434   0.02612121923    N  15  1  false  .
+         B   22-1    .    C     37.53028875   .                C  13  1  false  .
+         B   22-1    .    CA    52.49373642   0.01757153459    C  13  1  false  .
+         B   22-1    .    CB    37.5397067    0.009417947929   C  13  1  false  .
+         B   23      GLU  CA    55.01664081   0.01969566107    C  13  1  false  CCH
+         B   23      GLU  CB    30.56575259   0.02632545799    C  13  1  false  'CCH - very crowded'
+         B   23      GLU  CG    36.33521537   0.1140975525     C  13  1  false  .
+         B   23      GLU  H     7.691421006   0.002737510291   H  1   1  false  .
+         B   23      GLU  HA    4.173917413   0.001653949929   H  1   1  false  CCH
+         B   23      GLU  HBx   1.99603396    0.003166586379   H  1   1  false  'CCH - very crowded'
+         B   23      GLU  HBy   1.879318482   0.0006890770222  H  1   1  false  'CCH - very crowded'
+         B   23      GLU  HGx   2.085742463   0.0001691899155  H  1   1  false  CCH
+         B   23      GLU  HGy   2.00474017    0.0007220265796  H  1   1  false  'CCH - overlaps with other peak'
+         B   23      GLU  N     119.5881751   0.0191949204     N  15  1  false  .
+         B   23-1    .    CA    45.22465638   0.009263492854   C  13  1  false  .
+         B   24      PHE  CA    59.46664989   0.03616520458    C  13  1  false  'CCH - based on presence of CB'
+         B   24      PHE  CB    39.25628108   0.06826025187    C  13  1  false  'CCH - based on presence of CA and 13C-HSQC'
+         B   24      PHE  H     8.398254645   0.0008669651447  H  1   1  false  .
+         B   24      PHE  HA    4.626912729   .                H  1   1  false  'CCH - based on presence of CB'
+         B   24      PHE  HBx   3.014056803   .                H  1   1  false  'CCH - based on presence of CA'
+         B   24      PHE  HBy   2.699795054   0.001491182      H  1   1  false  'CCH - based on presence of CA'
+         B   24      PHE  N     119.0525324   0.02423897392    N  15  1  false  .
+         B   24-1    .    CA    55.00053605   0.01160904079    C  13  1  false  .
+         B   24-1    .    CB    30.56572311   0.008772084506   C  13  1  false  .
+         B   25      PHE  CA    60.22689648   0.06290879013    C  13  1  false  CCH
+         B   25      PHE  CB    39.48532583   0.05311176096    C  13  1  false  CCH
+         B   25      PHE  H     8.409776753   0.001456998975   H  1   1  false  .
+         B   25      PHE  HA    3.935548396   0.001672858324   H  1   1  false  CCH
+         B   25      PHE  HBx   2.905651875   0.001079991697   H  1   1  false  CCH
+         B   25      PHE  HBy   2.834384082   .                H  1   1  false  'CCH - based on presence of CA'
+         B   25      PHE  N     122.0438371   0.03182788272    N  15  1  false  .
+         B   25-1    .    CA    59.44996645   0.007703826639   C  13  1  false  .
+         B   25-1    .    CB    39.23997476   .                C  13  1  false  .
+         B   26      VAL  CA    61.27107377   0.01269376464    C  13  1  false  CCH
+         B   26      VAL  CB    34.55425078   0.01303270042    C  13  1  false  CCH
+         B   26      VAL  CG1   21.03334243   0.0109942205     C  13  1  false  CCH
+         B   26      VAL  CG2   20.90006724   0.01938373717    C  13  1  false  CCH
+         B   26      VAL  H     7.228769435   0.003194648331   H  1   1  false  .
+         B   26      VAL  HA    3.694484358   0.0004893798025  H  1   1  false  CCH
+         B   26      VAL  HB    1.49204702    0.00107878751    H  1   1  false  CCH
+         B   26      VAL  HG1%  0.7209139901  0.001036377662   H  1   1  false  CCH
+         B   26      VAL  HG2%  0.3935764357  0.004641492945   H  1   1  false  'CCH - check 13CHSQC'
+         B   26      VAL  N     128.3099894   0.02426999838    N  15  1  false  .
+         B   26-1    .    CA    60.19106219   0.0189761988     C  13  1  false  .
+         B   26-1    .    CB    39.50095612   0.006980552544   C  13  1  false  .
+         B   27      ALA  CA    53.84381914   0.02544432755    C  13  1  false  CCH
+         B   27      ALA  CB    21.25141945   0.03949610852    C  13  1  false  CCH
+         B   27      ALA  H     8.222778838   0.002054114698   H  1   1  false  .
+         B   27      ALA  HA    3.614166995   0.00227810184    H  1   1  false  'CCH - lower than typical'
+         B   27      ALA  HB%   1.280460172   0.0005158823123  H  1   1  false  CCH
+         B   27      ALA  N     129.5614437   0.02242899642    N  15  1  false  .
+         B   27-1    .    CA    61.25586284   0.006518158076   C  13  1  false  .
+         B   27-1    .    CB    34.52051087   0.002592057757   C  13  1  false  .
+         B   28      CYS  CA    57.86980416   0.03118304816    C  13  1  false  'CCH cannot identify - no HA'
+         B   28      CYS  CB    31.19208811   0.008394088474   C  13  1  false  'CCH - based on presence of CA and 13C-HSQC'
+         B   28      CYS  H     8.763487843   0.001458227736   H  1   1  false  .
+         B   28      CYS  HBx   3.028107941   .                H  1   1  false  'CCH - based on presence of CA and 13C-HSQC'
+         B   28      CYS  HBy   2.884930356   .                H  1   1  false  'CCH - based on presence of CA and 13C-HSQC'
+         B   28      CYS  N     117.9677803   0.02877782056    N  15  1  false  .
+         B   28-1    .    CA    53.80771759   0.0154826445     C  13  1  false  .
+         B   28-1    .    CB    21.21407661   0.004960701645   C  13  1  false  .
+         B   29      HIS  CA    57.61621197   0.06978002375    C  13  1  false  'CCH - very low signal, check again'
+         B   29      HIS  CB    29.33899849   0.07809735163    C  13  1  false  'CCH -very low signal, check again'
+         B   29      HIS  H     9.05988101    0.002715692694   H  1   1  false  .
+         B   29      HIS  HA    4.303512872   0.001202927023   H  1   1  false  'CCH - not the best match'
+         B   29      HIS  HBx   3.183320546   .                H  1   1  false  CCH
+         B   29      HIS  HBy   3.069065729   .                H  1   1  false  CCH
+         B   29      HIS  N     126.4407765   0.04829185431    N  15  1  false  .
+         B   29-1    .    CA    57.84151964   0.08136292089    C  13  1  false  .
+         B   29-1    .    CB    31.18470868   0.009761591453   C  13  1  false  .
+         B   30      GLU  CA    57.9857036    0.05877333237    C  13  1  false  CCH
+         B   30      GLU  CB    30.34929234   0.1957865554     C  13  1  false  .
+         B   30      GLU  CG    35.16079797   0.03943130006    C  13  1  false  CCH
+         B   30      GLU  H     8.582176613   0.005900720807   H  1   1  false  .
+         B   30      GLU  HA    4.26637541    0.0002290199094  H  1   1  false  CCH
+         B   30      GLU  HBx   2.029266584   0.002286459739   H  1   1  false  'CCH - crowded'
+         B   30      GLU  HBy   1.924602842   0.002302903118   H  1   1  false  'CCH - crowded'
+         B   30      GLU  HGx   2.12910542    0.002472227118   H  1   1  false  CCH
+         B   30      GLU  HGy   2.014168909   0.004085487555   H  1   1  false  CCH
+         B   30      GLU  N     121.0116134   0.01914603593    N  15  1  false  .
+         B   30-1    .    CA    57.66386611   0.04457175117    C  13  1  false  .
+         B   30-1    .    CB    29.38453023   0.02688932408    C  13  1  false  .
+         B   31      CYS  CA    58.63909971   0.06368469375    C  13  1  false  CCH
+         B   31      CYS  CB    33.17993735   0.008673016459   C  13  1  false  CCH
+         B   31      CYS  H     9.079118943   0.002603390064   H  1   1  false  .
+         B   31      CYS  HA    4.973231388   0.001364311812   H  1   1  false  CCH
+         B   31      CYS  HB%   3.215471543   .                H  1   1  false  'CCH - only one observed, both may have same ppm'
+         B   31      CYS  N     120.8165572   0.03020299247    N  15  1  false  .
+         B   31-1    .    CA    57.96900655   0.05009991612    C  13  1  false  .
+         B   31-1    .    CB    30.2102002    0.01621724349    C  13  1  false  .
+         B   32      SER  CA    59.66405454   0.004337002744   C  13  1  false  CCH
+         B   32      SER  CB    61.90311989   0.01520460847    C  13  1  false  .
+         B   32      SER  H     8.003797356   0.002311383453   H  1   1  false  .
+         B   32      SER  HA    4.416453191   0.0004776560636  H  1   1  false  CCH
+         B   32      SER  HBx   4.003188489   0.0005107963897  H  1   1  false  .
+         B   32      SER  HBy   3.948093794   0.0001656989131  H  1   1  false  .
+         B   32      SER  N     115.6474146   0.0281174341     N  15  1  false  .
+         B   32-1    .    CA    58.62413886   0.02916661267    C  13  1  false  .
+         B   32-1    .    CB    33.16726211   0.002536033176   C  13  1  false  .
+         B   33      PHE  CA    56.65226478   0.01506398031    C  13  1  false  'CCH - can not find HA'
+         B   33      PHE  CB    40.14129129   0.04458147587    C  13  1  false  CCH
+         B   33      PHE  H     8.641665486   0.00199852961    H  1   1  false  .
+         B   33      PHE  HBx   3.401582166   0.00113360089    H  1   1  false  CCH
+         B   33      PHE  HBy   2.846781844   0.001789447392   H  1   1  false  CCH
+         B   33      PHE  N     126.2023956   0.03619828547    N  15  1  false  .
+         B   33-1    .    CA    59.62958622   0.01784098326    C  13  1  false  .
+         B   33-1    .    CB    61.90598249   0.009178384975   C  13  1  false  .
+         B   34      PRO  CA    64.08785043   0.02101231918    C  13  1  false  Pro
+         B   34      PRO  CB    31.23012941   0.03680839196    C  13  1  false  .
+         B   34      PRO  CD    51.14687362   0.01279801585    C  13  1  false  .
+         B   34      PRO  CG    28.22222895   0.03481459917    C  13  1  false  .
+         B   34      PRO  HA    4.257840002   0.0009647509867  H  1   1  false  .
+         B   34      PRO  HBx   1.970395809   0.001292266077   H  1   1  false  .
+         B   34      PRO  HBy   1.756388588   0.0007419129293  H  1   1  false  .
+         B   34      PRO  HDx   3.815976456   0.000852485018   H  1   1  false  .
+         B   34      PRO  HDy   2.908127768   0.0008648820204  H  1   1  false  .
+         B   34      PRO  HGx   1.956166081   0.002162556124   H  1   1  false  .
+         B   34      PRO  HGy   1.854583357   3.780944661e-05  H  1   1  false  .
+         B   35      ILE  CA    58.99773886   0.0483677696     C  13  1  false  CCH
+         B   35      ILE  CB    41.75298815   0.04024956444    C  13  1  false  CCH
+         B   35      ILE  CD1   13.57039724   0.009998203192   C  13  1  false  CCH
+         B   35      ILE  CG1   28.61021993   0.008922419507   C  13  1  false  CCH
+         B   35      ILE  CG2   16.84354352   0.01489937378    C  13  1  false  CCH
+         B   35      ILE  H     7.665574686   0.001938810274   H  1   1  false  .
+         B   35      ILE  HA    5.521049155   0.001552787608   H  1   1  false  CCH
+         B   35      ILE  HB    1.743772692   0.002274489697   H  1   1  false  CCH
+         B   35      ILE  HD1%  0.8557518569  6.098005147e-05  H  1   1  false  CCH
+         B   35      ILE  HG1x  1.663516862   0.0007875882089  H  1   1  false  CCH
+         B   35      ILE  HG1y  1.3779998     0.0004356823277  H  1   1  false  CCH
+         B   35      ILE  HG2%  0.9843677011  0.0009945799053  H  1   1  false  CCH
+         B   35      ILE  N     125.5712937   0.03329508609    N  15  1  false  .
+         B   35-1    .    CA    64.09345965   0.01498582877    C  13  1  false  .
+         B   35-1    .    CB    31.21284829   .                C  13  1  false  .
+         B   36      CYS  CA    58.03856916   0.02963398995    C  13  1  false  'CCH - low confidence'
+         B   36      CYS  CB    31.73612803   0.03674349083    C  13  1  false  CCH
+         B   36      CYS  H     9.675977268   0.001335960462   H  1   1  false  .
+         B   36      CYS  HA    4.747999355   .                H  1   1  false  'CCH - low confidence'
+         B   36      CYS  HBx   3.393818814   .                H  1   1  false  'CCH - based on 13C-HSQC'
+         B   36      CYS  HBy   2.715908306   .                H  1   1  false  'CCH - based on 13C-HSQC'
+         B   36      CYS  N     128.1957508   0.0191662036     N  15  1  false  .
+         B   36-1    .    CA    59.01418546   0.02525994959    C  13  1  false  .
+         B   36-1    .    CB    41.76285147   0.003297596043   C  13  1  false  .
+         B   37      LYS  CA    60.69923003   0.01736069615    C  13  1  false  CCH
+         B   37      LYS  CB    32.28601158   0.02175831607    C  13  1  false  CCH
+         B   37      LYS  CD    29.75462828   0.02116026767    C  13  1  false  CCH
+         B   37      LYS  CE    42.21810814   0.01195118363    C  13  1  false  .
+         B   37      LYS  CG    25.41249788   0.01956926005    C  13  1  false  CCH
+         B   37      LYS  H     8.206389173   0.002071258541   H  1   1  false  .
+         B   37      LYS  HA    3.273948324   0.001585384367   H  1   1  false  CCH
+         B   37      LYS  HB%   1.349140857   .                H  1   1  false  .
+         B   37      LYS  HBx   1.253830444   0.003604639941   H  1   1  false  CCH
+         B   37      LYS  HBy   0.429606778   0.007377742803   H  1   1  false  CCH
+         B   37      LYS  HDx   1.36537428    0.002400251076   H  1   1  false  CCH
+         B   37      LYS  HDy   1.346400946   0.002121798141   H  1   1  false  CCH
+         B   37      LYS  HE%   2.678779384   0.0002578041746  H  1   1  false  .
+         B   37      LYS  HEx   2.858472428   .                H  1   1  false  CCH
+         B   37      LYS  HEy   2.679037188   .                H  1   1  false  CCH
+         B   37      LYS  HGx   0.9582832358  0.001693556991   H  1   1  false  CCH
+         B   37      LYS  HGy   0.8101869854  0.0004383389367  H  1   1  false  CCH
+         B   37      LYS  N     119.6922121   0.02951278549    N  15  1  false  .
+         B   37-1    .    CA    58.02921442   0.01300096436    C  13  1  false  .
+         B   37-1    .    CB    31.79629041   0.05070834444    C  13  1  false  .
+         B   38      ALA  CA    55.57251669   0.01548153046    C  13  1  false  CCH
+         B   38      ALA  CB    18.66892084   0.01777007829    C  13  1  false  CCH
+         B   38      ALA  H     8.033534911   0.00143717042    H  1   1  false  .
+         B   38      ALA  HA    4.072317836   0.0005299075545  H  1   1  false  CCH
+         B   38      ALA  HB%   1.394387572   0.0004940079817  H  1   1  false  CCH
+         B   38      ALA  N     122.2396339   0.03559796737    N  15  1  false  .
+         B   38-1    .    CA    60.67106657   0.02138997604    C  13  1  false  .
+         B   38-1    .    CB    32.28566456   0.0005385237665  C  13  1  false  .
+         B   39      CYS  CA    65.4263067    0.01884707539    C  13  1  false  CCH
+         B   39      CYS  CB    28.0945959    0.01901429213    C  13  1  false  CCH
+         B   39      CYS  H     9.11350674    0.001691765578   H  1   1  false  .
+         B   39      CYS  HA    3.998751464   0.0003596876872  H  1   1  false  CCH
+         B   39      CYS  HBx   2.992547493   0.0007909216637  H  1   1  false  CCH
+         B   39      CYS  HBy   2.914685383   0.0007362839596  H  1   1  false  CCH
+         B   39      CYS  N     123.6432956   0.02461811068    N  15  1  false  .
+         B   39-1    .    CA    55.53789155   0.005804156105   C  13  1  false  .
+         B   39-1    .    CB    18.62265911   0.01481424968    C  13  1  false  .
+         B   40      LEU  CA    57.90154933   0.01540615883    C  13  1  false  CCH
+         B   40      LEU  CB    41.79568341   0.00994364114    C  13  1  false  CCH
+         B   40      LEU  CDx   26.11375083   0.1093938932     C  13  1  false  'CCH - very weak, even in 13C-HSQC'
+         B   40      LEU  CDy   23.01416134   0.02253080284    C  13  1  false  'CCH '
+         B   40      LEU  CG    26.1966692    0.003330797557   C  13  1  false  'CCH - overlap with R53'
+         B   40      LEU  H     8.82264428    0.0007130498548  H  1   1  false  .
+         B   40      LEU  HA    4.001437822   0.001500699239   H  1   1  false  CCH
+         B   40      LEU  HBx   1.925189121   0.0002954746883  H  1   1  false  CCH
+         B   40      LEU  HBy   1.338013287   0.0008377471483  H  1   1  false  CCH
+         B   40      LEU  HDx%  0.3206801002  0.002328074604   H  1   1  false  'CCH - very weak, even in 13C-HSQC'
+         B   40      LEU  HDy%  0.2738831167  0.001392133379   H  1   1  false  CCH
+         B   40      LEU  HG    1.339062936   0.0008176174306  H  1   1  false  'CCH - overlap with R53'
+         B   40      LEU  N     123.2886194   0.02106622274    N  15  1  false  .
+         B   40-1    .    CA    65.40962234   0.00851794539    C  13  1  false  .
+         B   40-1    .    CB    28.05132142   0.02497073461    C  13  1  false  .
+         B   41      GLU  CA    60.42057739   0.04594300928    C  13  1  false  CCH
+         B   41      GLU  CB    29.59753459   0.04573975648    C  13  1  false  CCH
+         B   41      GLU  CG    37.19805139   0.03565517127    C  13  1  false  .
+         B   41      GLU  H     8.781027687   0.0005487483162  H  1   1  false  .
+         B   41      GLU  HA    3.679959809   0.0004689418601  H  1   1  false  CCH
+         B   41      GLU  HBx   2.06662995    0.001822384327   H  1   1  false  CCH
+         B   41      GLU  HBy   1.833826245   0.0009982589484  H  1   1  false  CCH
+         B   41      GLU  HGx   2.17985388    0.0007165143425  H  1   1  false  CCH
+         B   41      GLU  HGy   1.681096657   0.002346910393   H  1   1  false  CCH
+         B   41      GLU  N     119.7432704   0.0257207711     N  15  1  false  .
+         B   41-1    .    CA    57.86034609   0.01000095293    C  13  1  false  .
+         B   41-1    .    CB    41.77448646   0.008774903672   C  13  1  false  .
+         B   42      TYR  CA    61.94618041   0.06314469611    C  13  1  false  CCH
+         B   42      TYR  CB    37.79426321   0.05324718056    C  13  1  false  CCH
+         B   42      TYR  H     7.60062415    0.002427173335   H  1   1  false  .
+         B   42      TYR  HA    4.157469966   0.0009992025922  H  1   1  false  CCH
+         B   42      TYR  HBx   3.287707045   0.0009653815381  H  1   1  false  CCH
+         B   42      TYR  HBy   3.089813743   0.00132281464    H  1   1  false  CCH
+         B   42      TYR  N     120.3939818   0.02333022715    N  15  1  false  .
+         B   42-1    .    CA    60.3904933    0.01123601863    C  13  1  false  .
+         B   42-1    .    CB    29.56955385   0.0222441396     C  13  1  false  .
+         B   43      GLU  CA    59.66262908   0.01819049758    C  13  1  false  CCH
+         B   43      GLU  CB    29.33906717   0.0169978185     C  13  1  false  CCH
+         B   43      GLU  CG    36.58413752   0.009497339863   C  13  1  false  CCH
+         B   43      GLU  H     8.264630903   0.001995344119   H  1   1  false  .
+         B   43      GLU  HA    3.785521816   4.140125068e-05  H  1   1  false  CCH
+         B   43      GLU  HBx   2.642528612   0.0001536763682  H  1   1  false  CCH
+         B   43      GLU  HBy   2.485674528   0.001339876778   H  1   1  false  CCH
+         B   43      GLU  HGx   2.591916597   0.0002167701271  H  1   1  false  CCH
+         B   43      GLU  HGy   2.402969259   0.0003017090047  H  1   1  false  CCH
+         B   43      GLU  N     118.9409547   0.02736338275    N  15  1  false  .
+         B   43-1    .    CA    61.90634712   0.0125532481     C  13  1  false  .
+         B   43-1    .    CB    37.82433802   0.0003521987167  C  13  1  false  .
+         B   44      PHE  CA    61.27899074   0.02275773992    C  13  1  false  CCH
+         B   44      PHE  CB    38.90127629   0.05084084678    C  13  1  false  CCH
+         B   44      PHE  H     8.898709169   0.0009942638128  H  1   1  false  .
+         B   44      PHE  HA    4.018382887   .                H  1   1  false  'CCH - based on CB'
+         B   44      PHE  HBx   3.345055987   .                H  1   1  false  CCH
+         B   44      PHE  HBy   2.981262245   0.005207835609   H  1   1  false  CCH
+         B   44      PHE  N     119.3669322   0.03355095235    N  15  1  false  .
+         B   44-1    .    C     29.33208881   .                C  13  1  false  .
+         B   44-1    .    CA    59.66677093   0.01082581783    C  13  1  false  .
+         B   44-1    .    CB    29.33107815   0.001010658803   C  13  1  false  .
+         B   45      LYS  CA    59.61307532   0.0138351878     C  13  1  false  CCH
+         B   45      LYS  CB    32.15317209   0.02159464641    C  13  1  false  CCH
+         B   45      LYS  CD    29.53227516   0.01972387657    C  13  1  false  CCH
+         B   45      LYS  CE    42.22285706   0.03114221084    C  13  1  false  CCH
+         B   45      LYS  CG    25.27191757   0.02170600699    C  13  1  false  CCH
+         B   45      LYS  H     8.340189892   0.002582633583   H  1   1  false  .
+         B   45      LYS  HA    3.993905257   0.001751410164   H  1   1  false  CCH
+         B   45      LYS  HB%   1.919303743   0.002049482875   H  1   1  false  'CCH - protons overlap/same ppm'
+         B   45      LYS  HD%   1.593564444   9.604074329e-05  H  1   1  false  'CCH - protons overlap'
+         B   45      LYS  HE%   2.858895687   0.0004232591738  H  1   1  false  'CCH - protons overlap'
+         B   45      LYS  HGx   1.537451017   0.001582934388   H  1   1  false  CCH
+         B   45      LYS  HGy   1.407208291   0.0003993030953  H  1   1  false  CCH
+         B   45      LYS  N     122.7019675   0.06346603708    N  15  1  false  .
+         B   45-1    .    CA    61.28657749   0.009855680446   C  13  1  false  .
+         B   45-1    .    CB    38.96824017   0.07036247952    C  13  1  false  .
+         B   46      GLU  CA    56.15883429   0.02708231877    C  13  1  false  CCH
+         B   46      GLU  CB    29.70449777   0.01491556146    C  13  1  false  CCH
+         B   46      GLU  CG    36.56591558   0.02373388775    C  13  1  false  CCH
+         B   46      GLU  H     7.69157796    0.003046065874   H  1   1  false  .
+         B   46      GLU  HA    4.120799059   0.0004549473151  H  1   1  false  CCH
+         B   46      GLU  HBx   2.17943777    0.001034934433   H  1   1  false  CCH
+         B   46      GLU  HBy   1.707799291   0.001524446333   H  1   1  false  CCH
+         B   46      GLU  HGx   1.871195919   0.002304371962   H  1   1  false  CCH
+         B   46      GLU  HGy   1.75842063    0.001911819956   H  1   1  false  CCH
+         B   46      GLU  N     117.0210096   0.04952936119    N  15  1  false  .
+         B   46-1    .    CA    59.61454655   0.04110242811    C  13  1  false  .
+         B   46-1    .    CB    32.06094464   0.05927717956    C  13  1  false  .
+         B   47      GLY  CA    45.63726598   0.01142107049    C  13  1  false  CCH
+         B   47      GLY  H     7.859651996   0.002026938199   H  1   1  false  .
+         B   47      GLY  HAx   4.095771037   0.002844553856   H  1   1  false  CCH
+         B   47      GLY  HAy   3.571375598   0.0001870257985  H  1   1  false  'CCH - note a strong peak is also present, but I am confident I selected the correct peak'
+         B   47      GLY  N     107.1282314   0.02452566188    N  15  1  false  .
+         B   47-1    .    CA    56.16989971   0.0124366428     C  13  1  false  .
+         B   47-1    .    CB    29.67594219   0.005047850993   C  13  1  false  .
+         B   48      ARG  CA    56.70364555   0.01891791428    C  13  1  false  'CCH - overlap with D65'
+         B   48      ARG  CB    30.8986895    0.04258456195    C  13  1  false  CCH
+         B   48      ARG  CD    43.46339894   0.009274391613   C  13  1  false  CCH
+         B   48      ARG  CG    28.57619702   0.03044021674    C  13  1  false  'CCH - extreme overlap with I35 CG1'
+         B   48      ARG  H     8.353803825   0.001566465491   H  1   1  false  .
+         B   48      ARG  HA    4.35451111    0.003910730652   H  1   1  false  .
+         B   48      ARG  HBx   1.902598995   0.0002316253962  H  1   1  false  'CCH -weak, revisit maybe?'
+         B   48      ARG  HBy   1.751247516   0.002498189498   H  1   1  false  'CCH - weak, revisit maybe?'
+         B   48      ARG  HDx   3.382141505   0.0007564853493  H  1   1  false  CCH
+         B   48      ARG  HDy   3.04715416    0.0007811146012  H  1   1  false  CCH
+         B   48      ARG  HGx   1.404126431   0.0001332479006  H  1   1  false  'CCH - extreme overlap with I35'
+         B   48      ARG  HGy   1.363395692   0.001472108459   H  1   1  false  'CCH - extreme overlap with I35'
+         B   48      ARG  N     123.7578196   0.02205618076    N  15  1  false  .
+         B   48-1    .    CA    45.61483012   0.01239930492    C  13  1  false  .
+         B   49      ARG  CA    55.2585999    0.03295579176    C  13  1  false  CCH
+         B   49      ARG  CB    30.74955088   0.03216559845    C  13  1  false  CCH
+         B   49      ARG  CD    43.31114458   0.01698308808    C  13  1  false  CCH
+         B   49      ARG  CG    27.38774066   0.02516903032    C  13  1  false  CCH
+         B   49      ARG  H     8.118458007   0.002508322159   H  1   1  false  .
+         B   49      ARG  HA    4.257440948   0.0006786250911  H  1   1  false  CCH
+         B   49      ARG  HBx   1.39424894    4.797817328e-05  H  1   1  false  'CCH - very hard to assign. CA 55.3 is the lowest CA of all R residues.'
+         B   49      ARG  HBy   1.806820606   0.001044236719   H  1   1  false  'CCH - very hard to assign. Not sure if HBy is here or at 1.4ppm'
+         B   49      ARG  HDx   2.837778501   0.0008338888747  H  1   1  false  CCH
+         B   49      ARG  HDy   2.749971242   0.0002575875169  H  1   1  false  CCH
+         B   49      ARG  HGx   1.094238114   0.002616237163   H  1   1  false  'CCH - somewhat low for Arg'
+         B   49      ARG  HGy   0.6144304912  0.003172462379   H  1   1  false  'CCH - extremely low for Arg'
+         B   49      ARG  N     118.9534843   0.0188650407     N  15  1  false  .
+         B   49-1    .    CA    56.70330761   0.02542351114    C  13  1  false  .
+         B   49-1    .    CB    30.88980335   0.006032981961   C  13  1  false  .
+         B   50      ILE  CA    58.59018479   0.02658443362    C  13  1  false  CCH
+         B   50      ILE  CB    40.58001047   0.03267062235    C  13  1  false  CCH
+         B   50      ILE  CD1   12.67921853   0.01182712478    C  13  1  false  CCH
+         B   50      ILE  CG1   26.08375411   0.03151342626    C  13  1  false  CCH
+         B   50      ILE  CG2   17.12853161   0.0158135889     C  13  1  false  CCH
+         B   50      ILE  H     7.35719015    0.00265190117    H  1   1  false  .
+         B   50      ILE  HA    3.981887378   0.0008445307691  H  1   1  false  CCH
+         B   50      ILE  HB    1.264097445   0.001891977419   H  1   1  false  CCH
+         B   50      ILE  HD1%  0.6149468154  0.001443988326   H  1   1  false  CCH
+         B   50      ILE  HG1x  1.074772476   0.001514612896   H  1   1  false  CCH
+         B   50      ILE  HG1y  0.7837025583  4.483597216e-05  H  1   1  false  CCH
+         B   50      ILE  HG2%  0.4651365647  0.002283188264   H  1   1  false  CCH
+         B   50      ILE  N     116.7367317   0.02395777242    N  15  1  false  .
+         B   50-1    .    C     30.77365041   .                C  13  1  false  .
+         B   50-1    .    CA    55.24929291   0.02585172919    C  13  1  false  .
+         B   50-1    .    CB    30.74687766   0.02677274471    C  13  1  false  .
+         B   51      CYS  CA    59.79362333   0.01429057783    C  13  1  false  'CCH - unable to assign HA'
+         B   51      CYS  CB    30.9198641    0.03859254985    C  13  1  false  CCH
+         B   51      CYS  H     7.67628561    0.00438734678    H  1   1  false  .
+         B   51      CYS  HBx   2.949177135   .                H  1   1  false  'CCH - assigned based on CA'
+         B   51      CYS  HBy   2.392622974   .                H  1   1  false  'CCH - assigned based on CA'
+         B   51      CYS  N     125.7296245   0.07829102266    N  15  1  false  .
+         B   51-1    .    CA    58.59098473   0.007179992163   C  13  1  false  .
+         B   51-1    .    CB    40.5717353    0.01671936261    C  13  1  false  .
+         B   52      LEU  CA    57.13384772   0.01794585006    C  13  1  false  CCH
+         B   52      LEU  CB    42.41335087   0.01726828971    C  13  1  false  CCH
+         B   52      LEU  CD1   24.99396951   .                C  13  1  false  .
+         B   52      LEU  CDx   24.97827825   0.01569125925    C  13  1  false  CCH
+         B   52      LEU  CDy   23.93511559   0.01690815355    C  13  1  false  CCH
+         B   52      LEU  CG    27.11289945   0.009474348929   C  13  1  false  CCH
+         B   52      LEU  H     8.435356777   0.0003749119458  H  1   1  false  .
+         B   52      LEU  HA    3.855922396   0.0001633902914  H  1   1  false  CCH
+         B   52      LEU  HB2   1.571671248   9.87097593e-05   H  1   1  false  CCH
+         B   52      LEU  HB3   1.375477293   0.001615982142   H  1   1  false  CCH
+         B   52      LEU  HDx%  0.8693711588  0.000111184699   H  1   1  false  CCH
+         B   52      LEU  HDy%  0.8096586784  0.0001156399356  H  1   1  false  CCH
+         B   52      LEU  HG    1.644592626   0.0006425684988  H  1   1  false  CCH
+         B   52      LEU  N     130.9114798   0.0286961043     N  15  1  false  .
+         B   52-1    .    CA    59.80956897   0.00524492328    C  13  1  false  .
+         B   52-1    .    CB    30.8690361    0.002193171857   C  13  1  false  .
+         B   53      ARG  CA    58.2012129    0.03047710023    C  13  1  false  'On HSQC, its quite close to others'
+         B   53      ARG  CB    30.8387587    0.03099047741    C  13  1  false  CCH
+         B   53      ARG  CD    43.97147799   0.03544557545    C  13  1  false  .
+         B   53      ARG  CG    26.23842415   0.02142172543    C  13  1  false  CCH
+         B   53      ARG  H     8.562697804   0.003012450736   H  1   1  false  .
+         B   53      ARG  HA    4.018613603   0.0006111963161  H  1   1  false  CCH
+         B   53      ARG  HBx   1.818993858   0.006759212105   H  1   1  false  'CCH - low confidence in the HSQC position. '
+         B   53      ARG  HBy   0.7029809451  0.003086584897   H  1   1  false  'CCH - quite sure that x is at 1.8, not a doublet here.'
+         B   53      ARG  HDx   3.051988377   0.0005322681913  H  1   1  false  .
+         B   53      ARG  HDy   2.842508694   0.001968854263   H  1   1  false  .
+         B   53      ARG  HGx   1.331640652   0.000192498511   H  1   1  false  'CCH - check 13CHSQC'
+         B   53      ARG  HGy   1.205970702   0.002982813408   H  1   1  false  .
+         B   53      ARG  N     120.8879747   0.03204897422    N  15  1  false  .
+         B   53-1    .    CA    57.09666139   0.01945457282    C  13  1  false  .
+         B   53-1    .    CB    42.3946343    0.0003712155073  C  13  1  false  .
+         B   54      CYS  CA    59.03337363   0.02134502035    C  13  1  false  .
+         B   54      CYS  CB    31.96695058   0.02423179007    C  13  1  false  CCH
+         B   54      CYS  H     8.066587937   0.002760472706   H  1   1  false  .
+         B   54      CYS  HBx   3.04599603    .                H  1   1  false  'CCH - based on presence of CA'
+         B   54      CYS  HBy   2.592434495   .                H  1   1  false  'CCH - based on presence of CA'
+         B   54      CYS  N     117.3478583   0.03405399903    N  15  1  false  .
+         B   54-1    .    CA    58.22399451   0.01352715674    C  13  1  false  .
+         B   54-1    .    CB    30.87612075   0.01131869361    C  13  1  false  .
+         B   55      GLY  CA    46.2293224    0.01077740718    C  13  1  false  CCH
+         B   55      GLY  H     7.824573872   0.002710946874   H  1   1  false  .
+         B   55      GLY  HAx   3.957184493   0.002161169189   H  1   1  false  CCH
+         B   55      GLY  HAy   3.537973427   0.000383149976   H  1   1  false  CCH
+         B   55      GLY  N     112.1372565   0.02793060782    N  15  1  false  .
+         B   55-1    .    CA    59.03220941   0.0130487842     C  13  1  false  .
+         B   55-1    .    CB    31.98142974   0.02316662237    C  13  1  false  .
+         B   56      ASN  CA    52.57001158   0.01742188759    C  13  1  false  CCH
+         B   56      ASN  CB    39.71868339   0.03442974935    C  13  1  false  .
+         B   56      ASN  H     8.666558636   0.00206306171    H  1   1  false  .
+         B   56      ASN  HA    4.848957275   0.000544899912   H  1   1  false  CCH
+         B   56      ASN  HBx   2.722103194   0.001831744268   H  1   1  false  CCH
+         B   56      ASN  HBy   2.514916651   0.0008155300339  H  1   1  false  CCH
+         B   56      ASN  N     121.8590359   0.03512004914    N  15  1  false  .
+         B   56-1    .    CA    46.21934068   0.01254324933    C  13  1  false  .
+         B   57      PRO  CA    63.05440257   0.01751680381    C  13  1  false  .
+         B   57      PRO  CB    32.0811096    0.02146402849    C  13  1  false  .
+         B   57      PRO  CD    51.04854944   0.02037145165    C  13  1  false  Pro
+         B   57      PRO  CG    27.75732846   0.01346559975    C  13  1  false  .
+         B   57      PRO  HA    4.510750632   6.290987191e-05  H  1   1  false  .
+         B   57      PRO  HBx   2.223483723   0.000530488892   H  1   1  false  .
+         B   57      PRO  HBy   1.858283152   0.003769114114   H  1   1  false  .
+         B   57      PRO  HDx   3.861334571   0.001475892239   H  1   1  false  .
+         B   57      PRO  HDy   3.61264595    0.0001145603366  H  1   1  false  .
+         B   57      PRO  HGx   2.065776918   0.0003587170397  H  1   1  false  .
+         B   57      PRO  HGy   1.873734588   0.0004919260152  H  1   1  false  .
+         B   58      TYR  CA    58.18117776   0.02539410293    C  13  1  false  'CCH - low confidence'
+         B   58      TYR  CB    39.46608115   0.03057955673    C  13  1  false  CCH
+         B   58      TYR  H     7.731575932   0.002729132243   H  1   1  false  .
+         B   58      TYR  HA    4.631095482   .                H  1   1  false  'CCH - low confidence'
+         B   58      TYR  HBx   3.127320463   .                H  1   1  false  CCH
+         B   58      TYR  HBy   2.596671031   .                H  1   1  false  CCH
+         B   58      TYR  N     121.7064748   0.03016008878    N  15  1  false  .
+         B   58-1    .    CA    63.05943692   0.007516984344   C  13  1  false  .
+         B   58-1    .    CB    32.06761464   0.003317085637   C  13  1  false  .
+         B   59      ASP  CA    54.4508604    0.01836019429    C  13  1  false  CCH
+         B   59      ASP  CB    42.32751415   0.06667622739    C  13  1  false  'CCH - weak, is this normal? '
+         B   59      ASP  H     9.250292143   0.0004978471809  H  1   1  false  .
+         B   59      ASP  HA    4.532272039   0.0006711237247  H  1   1  false  'CCH - weak, is this normal?'
+         B   59      ASP  HBx   2.746562647   0.0008555994322  H  1   1  false  .
+         B   59      ASP  HBy   2.614938727   0.0002079954127  H  1   1  false  .
+         B   59      ASP  N     123.3419547   0.02815835437    N  15  1  false  .
+         B   59-1    .    CA    58.16289227   0.009444575273   C  13  1  false  .
+         B   59-1    .    CB    39.451989     0.002427471288   C  13  1  false  .
+         B   60      GLU  CA    58.88172017   0.01701145428    C  13  1  false  CCH
+         B   60      GLU  CB    29.76066803   0.01014568165    C  13  1  false  CCH
+         B   60      GLU  CG    36.4884408    0.01312664832    C  13  1  false  CCH
+         B   60      GLU  H     8.916836098   0.0005494024175  H  1   1  false  .
+         B   60      GLU  HA    4.057754056   0.0002300711648  H  1   1  false  CCH
+         B   60      GLU  HBx   2.070546036   0.002411560505   H  1   1  false  'CCH - check that there are two'
+         B   60      GLU  HBy   2.042886987   0.00267037205    H  1   1  false  'CCH - check that there are two. Possible other peak at 2.3ppm'
+         B   60      GLU  HG%   2.305135849   5.370449609e-05  H  1   1  false  'CCH - only one peak observed, HG2 and HG3 may have same ppm'
+         B   60      GLU  N     123.2884235   0.02825759961    N  15  1  false  .
+         B   60-1    .    CA    54.42199169   0.008144967289   C  13  1  false  .
+         B   60-1    .    CB    42.2985082    0.003465832718   C  13  1  false  .
+         B   61      ASN  CA    53.78081174   0.05790667032    C  13  1  false  'CCH (weak)'
+         B   61      ASN  CB    38.29425532   0.004655135084   C  13  1  false  CCH
+         B   61      ASN  H     8.721269003   0.00160055315    H  1   1  false  .
+         B   61      ASN  HA    4.759675928   0.001434670527   H  1   1  false  'CCH (weak)'
+         B   61      ASN  HB%   2.865162827   2.086588271e-06  H  1   1  false  'CCH - expected two peaks, only one observed.'
+         B   61      ASN  HBx   2.865160741   .                H  1   1  false  .
+         B   61      ASN  HBy   2.865160741   .                H  1   1  false  .
+         B   61      ASN  N     116.9714752   0.03122940921    N  15  1  false  .
+         B   61-1    .    CA    58.86055626   0.002420497278   C  13  1  false  .
+         B   61-1    .    CB    29.7669379    0.01764987916    C  13  1  false  .
+         B   62      VAL  CA    64.50554892   0.01169367895    C  13  1  false  CCH
+         B   62      VAL  CB    31.7211635    0.01563201864    C  13  1  false  CCH
+         B   62      VAL  CG1   20.41733856   0.01247657612    C  13  1  false  CCH
+         B   62      VAL  CG2   21.29152535   0.02497147675    C  13  1  false  .
+         B   62      VAL  H     7.469870164   0.002008748368   H  1   1  false  .
+         B   62      VAL  HA    3.896992609   3.964004649e-05  H  1   1  false  CCH
+         B   62      VAL  HB    2.181979928   8.864876004e-06  H  1   1  false  CCH
+         B   62      VAL  HG1%  0.3269671521  0.000846595215   H  1   1  false  CCH
+         B   62      VAL  HG2%  0.5997060905  0.002000881403   H  1   1  false  .
+         B   62      VAL  N     118.7090445   0.02230378772    N  15  1  false  .
+         B   62-1    .    CA    53.7891237    0.02391512355    C  13  1  false  .
+         B   62-1    .    CB    38.2758639    0.007366010818   C  13  1  false  .
+         B   63      PHE  CA    58.83888889   0.01852492503    C  13  1  false  CCH
+         B   63      PHE  CB    38.34833999   0.007365782777   C  13  1  false  CCH
+         B   63      PHE  H     7.780805818   0.002190939618   H  1   1  false  .
+         B   63      PHE  HA    4.48938889    .                H  1   1  false  'CCH - based on presence of CB'
+         B   63      PHE  HBx   3.275404432   .                H  1   1  false  'CCH - based on presence of CA'
+         B   63      PHE  HBy   2.770315937   .                H  1   1  false  'CCH - based on presence of CA'
+         B   63      PHE  N     116.8485271   0.02935964561    N  15  1  false  .
+         B   63-1    .    CA    64.4659378    0.00564378232    C  13  1  false  .
+         B   63-1    .    CB    31.71109197   0.00192993126    C  13  1  false  .
+         B   64      ASP  CA    55.23678763   0.02017658626    C  13  1  false  CCH
+         B   64      ASP  CB    41.06760033   0.0291834478     C  13  1  false  .
+         B   64      ASP  H     7.815491873   0.002105922504   H  1   1  false  .
+         B   64      ASP  HA    4.504333196   5.575991422e-05  H  1   1  false  CCH
+         B   64      ASP  HBx   2.715933185   1.897925985e-05  H  1   1  false  CCH
+         B   64      ASP  HBy   2.653431689   0.00172354852    H  1   1  false  CCH
+         B   64      ASP  N     121.3082791   0.02526888111    N  15  1  false  .
+         B   64-1    .    CA    58.80474883   0.01126294298    C  13  1  false  .
+         B   64-1    .    CB    38.30830627   0.002012746082   C  13  1  false  .
+         B   65      ASP  CA    56.47529212   0.03664681051    C  13  1  false  CCH
+         B   65      ASP  CB    42.60357886   0.07651246206    C  13  1  false  CCH
+         B   65      ASP  H     8.111766024   0.001733756932   H  1   1  false  .
+         B   65      ASP  HA    4.357991976   0.001195024541   H  1   1  false  CCH
+         B   65      ASP  HBx   2.606147366   0.000156839424   H  1   1  false  CCH
+         B   65      ASP  HBy   2.520926719   0.002526662722   H  1   1  false  CCH
+         B   65      ASP  N     126.7165782   0.02163197818    N  15  1  false  .
+         B   65-1    .    CA    55.20614156   0.01363506473    C  13  1  false  .
+         B   65-1    .    CB    41.03664539   0.009210112698   C  13  1  false  .
